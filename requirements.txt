@@ -1,0 +1,8 @@
+accelerate
+diffusers
+invisible_watermark
+pydantic==2.10.6
+torch
+transformers
+xformers
+compel
